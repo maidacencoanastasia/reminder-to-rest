@@ -1,0 +1,29 @@
+{
+  "intervals": {
+    "Short Break": 40,
+    "Pomodoro": 1500,
+    "Long Break": 1800,
+    "Custom": 1200
+  },
+  "current_interval": "Short Break",
+  "messages": [
+    "Time for a break! \ud83c\udfaf",
+    "Take a moment to rest your eyes \ud83d\udc40",
+    "Stretch and hydrate! \ud83d\udca7",
+    "Step away from the screen \ud83d\udeb6\u200d\u2640\ufe0f",
+    "Deep breath, you've got this! \ud83e\uddd8\u200d\u2642\ufe0f"
+  ],
+  "break_activities": [
+    "Take 5 deep breaths",
+    "Do some neck stretches",
+    "Walk around for 2 minutes",
+    "Drink a glass of water",
+    "Look at something 20 feet away",
+    "Do 10 jumping jacks",
+    "Practice good posture"
+  ],
+  "sound_enabled": true,
+  "sound_file": "",
+  "auto_continue": false,
+  "show_activity_suggestion": true
+}

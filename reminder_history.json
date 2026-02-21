@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-02-21T14:20:07.080324",
+    "message": "Take a moment to rest your eyes \ud83d\udc40",
+    "activity": "Do 10 jumping jacks",
+    "action": "continue"
+  },
+  {
+    "timestamp": "2026-02-21T14:20:15.268770",
+    "message": "Step away from the screen \ud83d\udeb6\u200d\u2640\ufe0f",
+    "activity": "Drink a glass of water",
+    "action": "continue"
+  },
+  {
+    "timestamp": "2026-02-21T14:20:25.137251",
+    "message": "Deep breath, you've got this! \ud83e\uddd8\u200d\u2642\ufe0f",
+    "activity": "Take 5 deep breaths",
+    "action": "continue"
+  }
+]
